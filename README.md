@@ -29,7 +29,7 @@ This project employs a binary discrete choice econometric approach:
 ## Repository Structure
 
 ```
-├── notebooks/        # R scripts for data cleaning, EDA, and regression modeling
+├── notebooks/        # Python for data cleaning, EDA, and regression modeling
 ├── paper/            # Final manuscript (LaTeX source and PDF)
 └── data/             # WBES Indonesia 2023 Version B dataset (.dta)
 ```
