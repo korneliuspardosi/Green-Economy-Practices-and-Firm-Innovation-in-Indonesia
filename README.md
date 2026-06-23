@@ -29,7 +29,7 @@ This project employs a binary discrete choice econometric approach:
 ## Repository Structure
 
 ```
-├── Notebooks/        # Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
+├── Notebook/        # Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
 ├── Paper/            # Final manuscript (LaTeX source and PDF)
 └── Data/             # WBES Indonesia 2023 Version B dataset (.dta)
 ```
